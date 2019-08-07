@@ -1,0 +1,12 @@
+.card ul a {
+
+	text-decoration: none;
+	color:black;
+	hover:red;
+}
+.card ul a:hover {
+
+	background-color: #007791;
+	color:white;
+	 
+}

@@ -1,0 +1,86 @@
+.ustmenu{
+	font-family: Tahoma;
+	font-size: 14px;
+
+}
+
+.logo{
+	margin-top: -20px;
+}
+.card{
+	margin-left: -25px;
+	max-height: 250px !important;
+
+}
+.card-img-overlay-text{
+	position: relative;
+	margin-top: 175px;
+}
+.card-img-overlay-text a{
+		text-decoration: none !important;
+	}
+.card-img-overlay-sag{
+	position: relative;
+	margin-top: 50px;
+}
+.card-img-overlay-sag a{
+		text-decoration: none !important;
+	}
+.card-img-overlay-sag h6{
+		font-size: 12px;
+	}
+.card-img-overlay-sag p{
+		font-size: 10px;
+	}
+.card-ust-sag{
+	min-height: 144px;
+}
+.card-img-left{
+	margin-left: 40px;
+}
+.card-img-icon{
+	position: absolute;
+	margin-left: 30px;
+	margin-top: -10px;	
+	width: 40px;
+
+}
+
+.breadcrumb-item{
+	font-size: 12px !important;
+}
+@media(max-width:576px){
+	.card-img-overlay{
+		margin-top: 80px;
+	}
+	.card-img-overlay p{
+		display: none;
+	}
+	.card-img-overlay-sag{
+		margin-top: 100px;
+	}
+	.card{
+	margin-left: 0px;
+	max-height: 490px !important;
+
+    }
+    .card-img{
+    	margin-top: 10px !important;
+    	height: 190px;
+    }
+    .card-img-left{
+    	width: 90%;
+    	height: 190px;
+    	margin: 20px;
+    }
+    .galeriler{
+    	margin-top: 30px;
+    }
+    .card-img-icon{
+	position: absolute;	
+	width: 40px;
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+}

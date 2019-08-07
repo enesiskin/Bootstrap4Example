@@ -1,0 +1,51 @@
+.ustalan{
+	background-color: #405D9B;
+	min-height: 80px !important;
+}
+nav input{
+	padding: 0px !important;
+	border-radius: 0px !important;
+}
+.girisbutton{
+	font-size: 12px !important;
+	font-family: arial !important;
+	background-color: #405D9B !important;
+	border: outline;
+	border-color: grey;
+	margin: 1px;
+}
+.nav-eposta{
+	position: absolute;
+	margin-top: -25px !important;
+	font-size: 13px !important;
+	color: white;
+
+}
+.nav-sifre{
+	position: absolute;
+	margin-top: -25px !important;
+	margin-left: 160px !important;
+	font-size: 13px !important;
+	color: white;
+
+}
+.nav-hesap{
+	position: absolute;
+	margin-top: 25px !important;
+	margin-left: 160px !important;
+	font-size: 13px !important;
+}
+.gradian{ /* Renk geçisi özellliği ve diğer tarayıcılara uyumlu olması sağlanır*/
+	background: linear-gradient(white,#D4D9E8);
+	background: -webkit-linear-gradient(white,#D4D9E8);
+	background: -moz-linear-gradient(white,#D4D9E8);
+	background: -o-linear-gradient(white,#D4D9E8);
+
+
+}
+.dtarih{
+	padding: 0px !important;
+	width: 60px !important;
+	border-radius: 0px !important;
+	height: 35px !important;
+}
